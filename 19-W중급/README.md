@@ -1,4 +1,4 @@
-# 19-W README
+# 19 Winter 
 
 ## Lecturer
 
