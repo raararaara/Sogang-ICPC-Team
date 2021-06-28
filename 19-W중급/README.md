@@ -1,4 +1,4 @@
-# 19 Winter 
+# 19 Winter 중급
 
 ## Lecturer
 
