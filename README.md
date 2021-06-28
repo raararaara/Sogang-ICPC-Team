@@ -5,3 +5,4 @@
 * [19-Summer](https://github.com/raararaara/Sogang-ICPC-Team/tree/master/19-S%EC%A4%91%EA%B8%89) : 2019년 여름학기 중급 강의
 * [19-Winter](https://github.com/raararaara/Sogang-ICPC-Team/tree/master/19-W%EC%A4%91%EA%B8%89) : 2019년 겨울학기 중급 강의
 * [20-1](https://github.com/raararaara/Sogang-ICPC-Team/tree/master/20-1%EA%B3%A0%EA%B8%89) : 2020년 1학기 고급 강의
+* [21-1](https://github.com/raararaara/Sogang-ICPC-Team/tree/master/21-1) : 2021년 1학기 중급 강의
