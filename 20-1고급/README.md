@@ -1,5 +1,7 @@
 # 20 Spring 고급
 
+playlist link: [here](https://www.youtube.com/playlist?list=PLhhU7NXJ_2vmdcdQq8B0blDIROkAYvABq)
+
 ## 목차
 
 ### 01. Persistent Segment Tree
