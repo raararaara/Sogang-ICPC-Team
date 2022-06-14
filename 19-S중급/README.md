@@ -1,4 +1,6 @@
-# 19-S README
+# 19 Summer 중급
+
+오프라인으로 진행하여 playlist는 없습니다.
 
 ## 목차
 
