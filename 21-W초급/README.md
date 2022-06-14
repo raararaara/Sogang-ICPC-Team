@@ -4,7 +4,7 @@
 (2022.1 ~ 2022.2)
 
 ## Lecturer
-* dart(1, 4, 6, 8, 10)
+* [dart](https://github.com/soakdma37)(1, 4, 6, 8, 10)
 * raararaara(2, 3, 5, 7, 9, 11)
 
 ## 목차
