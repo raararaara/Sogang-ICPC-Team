@@ -1,5 +1,7 @@
 # 19 Winter 중급
 
+오프라인으로 진행하여 playlist는 없습니다.
+
 ## Lecturer
 
 - sbrus1213
