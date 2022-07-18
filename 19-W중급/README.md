@@ -4,7 +4,7 @@
 
 ## Lecturer
 
-- sbrus1213
+- @sbrus1213
 - raararaara
 
 ## 목차
